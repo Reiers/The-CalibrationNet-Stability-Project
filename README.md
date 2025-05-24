@@ -1,6 +1,6 @@
-
-
-# CalibrationNet Stability Project
+<p align="left">
+  <img src="https://github.com/Reiers/The-CalibrationNet-Stability-Project/raw/main/logo_CalibrationNet_Stability_Project.png" alt="CalibrationNet Stability Project" width="800"/>
+</p>
 
 ## About the Project
 The CalibrationNet Stability Project boosts Filecoin ecosystem reliability by enhancing CalibrationNet’s capacity to support blockchain testing, upgrade validations, and SP (Storage Provider) technology advancements. By leveraging batch sealing, fast snap deals, and a CalibrationNet-optimized Boost, the Curio and TechX teams achieved a significant Quality Adjusted Power (QAP) increase—adding hundreds of TiBs in just 12 hours with five available machines.
